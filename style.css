@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(119, 121, 225);
+    background-color: #acacff;
 
 }
 
@@ -14,4 +14,25 @@ main {
     margin: auto;
     padding: 10px
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+
+h1 {
+    font-size: 2cm ;
+    color: blue;
+}
+
+h2 {
+    font-size: 1,5cm ;
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
 }
