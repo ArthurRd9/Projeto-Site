@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #acacff;
+    background-color: #1b056c;
 
 }
 
@@ -24,19 +24,4 @@ h1 {
 h2 {
     font-size: 1,5em ;
     color: blue;
-}
-
-img.lado {
-    float: right;
-}
-
-a {
-    text-decoration: none;
-    font-weight: bold;
-    color: blue;
-}
-
-a:hover {
-    text-decoration: underline;
-    color: rgb(26, 26, 255);
 }
